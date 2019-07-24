@@ -1,0 +1,21 @@
+a.navbar-brand:hover, a.nav-link:hover, .contact-item-img:hover {
+  cursor: pointer;
+}
+
+.heart {
+  background-color: #555555;
+  transition: .2s;
+}
+
+.heart:hover {
+  background-color: #EA5249;
+  cursor: pointer;
+}
+
+.heart-active {
+  background-color: #EA5249;
+}
+
+.hide {
+  display: none;
+}
